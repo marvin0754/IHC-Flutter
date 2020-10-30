@@ -1,6 +1,12 @@
-# miapp2
+# Aplicacion para realizar un estudio numerológico gratuito.
 
-A new Flutter project.
+Datos de entrada: nombre y fecha de nacimiento.\
+Dato de salida:\
+* Urgencia interior \
+* Tónica fundamental\
+* Tónica del día\
+* Acontecimiento del día\
+* Cábala del año.\
 
 ## Getting Started
 
