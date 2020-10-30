@@ -64,7 +64,7 @@ class MostrarResultados extends State<Resultados> {
                   image: DecorationImage(
                     fit: BoxFit.fill,
                     image: NetworkImage(
-                        'https://lh3.googleusercontent.com/proxy/olpz8IjDuHjv76f_lTFN0ngEt0g4JdX1Uj3zI8FDwr2rQF8SYGoCaeVcpUtKDZwtwT1PeMis6FU5lev1ROmm5Jm8taXBCVd0E70A0AmeY509F8Fa5lySI6FfAq8CSD9RkkZuHvft_xEeWPYKxCRR9Vj_AD7YFYSmS8FxlHsXU5WLMfmRLKSb6UeHhfFGIG_VDO8IN0F4-tkOppoZ5zfdj4zX4fxSl74Cqw'),
+                        'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTU78le4--c69XCpC0CsRBfvvXHbon0p3LmlA&usqp=CAU'),
                   ),
                 ),
               ),
